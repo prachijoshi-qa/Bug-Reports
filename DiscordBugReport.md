@@ -31,6 +31,10 @@ Hardware Profile: Intel Core i7-13700K, 32GB RAM, NVIDIA RTX 4070
 
 Logs Attached: DxDiag.txt, discord_render_crash.log
 
+
+
+
+
 Bug02: Functional / UI Bug (P2 - Medium Severity)
 1. Description
 
